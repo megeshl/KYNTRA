@@ -28,7 +28,6 @@
 - [📱 Office Kit Demo Bridge](#-office-kit-demo-bridge)
 - [🏗 Tech Stack & Architecture](#-tech-stack--architecture)
 - [🔌 API Reference](#-api-reference)
-- [🚀 Quickstart & Local Setup](#-quickstart--setup)
 - [🏆 Judges Demo Script (3–5 Minutes)](#-judges-demo-script-35-minutes)
 - [🔒 Security & Data Rules](#-security--data-rules)
 
