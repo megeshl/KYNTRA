@@ -39,7 +39,7 @@
 You can access the live full-stack prototype directly in your browser:
 
 * **Live Interactive Application**: [https://ais-dev-rdplaqdekdels2tjb52rzm-819057743971.asia-southeast1.run.app](https://ais-dev-rdplaqdekdels2tjb52rzm-819057743971.asia-southeast1.run.app)
-* **Shared Preview Link**: [https://ais-pre-rdplaqdekdels2tjb52rzm-819057743971.asia-southeast1.run.app](https://ais-pre-rdplaqdekdels2tjb52rzm-819057743971.asia-southeast1.run.app)
+
 
 *Note: The prototype includes a built-in 3-minute guided tour mode for judges, populated with a coherent 30-member community dataset, interactive React Flow graph, camera vision pipeline, speech command engine, and live Socket.IO tunnel.*
 
@@ -172,48 +172,7 @@ KYNTRA includes a built-in **Office Kit Demo Bridge** (`/api/officekit/sync` + S
 
 ---
 
-## 🚀 Quickstart & Local Setup
 
-### Prerequisites
-- Node.js >= 18
-- npm >= 9
-
-### 1. Clone & Install
-```bash
-git clone https://github.com/megeshl2007/kyntra.git
-cd kyntra
-npm install
-```
-
-### 2. Environment Configuration
-Copy `.env.example` to `.env`:
-```bash
-cp .env.example .env
-```
-
-### 3. Run Development Server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### 4. Run Unit & Engine Test Suite
-```bash
-npm test
-```
-
-### 5. Reset & Re-Seed Database
-```bash
-npm run demo:reset
-```
-
-### 6. Production Build & Start
-```bash
-npm run build
-npm start
-```
-
----
 
 ## 🏆 Judges Demo Script (3–5 Minutes)
 
